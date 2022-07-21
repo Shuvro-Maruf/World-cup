@@ -4,7 +4,7 @@
 
     #top-banner {
         width: 90%;
-        height: 85vh;
+        height: 86vh;
         border-radius: 15px;
         background-color: #161616;
         display: flex;
@@ -67,6 +67,7 @@
         align-items: center;
         background-color: black;
         gap: 30px;
+        padding-top: 2px;
         margin-right: 5px;
         border-radius: 10px;
     }
@@ -77,9 +78,9 @@
         display: inline-block;
         text-align: center;
         width: 200px;
-        height: 50px;
+        height: 30px;
         border: 1px solid gray;
-        border-radius: 5px;
+        border-radius: 10px;
         background-color: white;
         color: black;
     }
@@ -191,6 +192,7 @@
 
     footer ul li {
         list-style: none;
+        list-si
     }
 
     footer ul li a {
